@@ -1,0 +1,39 @@
+body {
+  font-family: cursive;
+  margin: 0;
+}
+section {
+  background-color: rgb(43,149,211);
+  font-family: cursive;
+  margin-top: 0;
+  margin-left: 0;
+  margin-right: 0;
+  margin-bottom:0;
+  padding: 5px;
+}
+hr{
+border-top: 7px solid;
+color: blue;
+margin: 0;
+}
+p,h1,h2,h3,h4,h5,h6,legend,ul,li,ol,figcaption,label,a {
+color: green;
+}
+a:visited {
+  color: lime;
+}
+a:active {
+  color: burlywood;
+}
+a:hover {
+  color: yellow;
+}
+main {
+  background-color: cyan;
+  margin-top: 0;
+  margin-left:0;
+  margin-right: 0;
+  margin-bottom: 0;
+  padding : 5px;
+  text-align: center;
+}

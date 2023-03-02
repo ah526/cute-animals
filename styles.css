@@ -1,0 +1,35 @@
+a,h3,h4,h5,h6,p {
+  color: rgb(0, 255, 130);
+  font-family: cursive;
+  font-size:  20px;
+}
+hr{
+  border-top: 7px solid;
+  color: lime;
+  margin: 0;
+}
+a:visited {
+  color: red;
+}
+a:active{
+  color: purple;
+}
+a:hover {
+  color: brown;
+}
+main {
+  background-color: green;
+}
+a {
+  color: rgb(0, 255, 130);
+}
+h1,h2{
+  color: rgb(0, 255, 130);
+  font-family: cursive;
+}
+h1 {
+  text-align: center;
+}
+body {
+  background-color:  green;
+}

@@ -1,0 +1,51 @@
+ol,li,ul {
+  color: red;
+}
+fieldset {
+  color: red;
+}
+ body {
+   font-family: cursive;
+   margin: 0;
+ }
+hr {
+  border-top: 7px solid;
+  color: lime;
+  margin: 0;
+}
+h1 {
+text-align: center;
+}
+img {
+ text-align: left;
+ width: 450px;
+ margin: 0;
+}
+p, h2,h3,h4,h5,h6,legend,label {
+ color: red;
+}
+p {
+color: red;
+border-top: 6px;
+}
+.header{
+background-color: #f0c009;
+margin-left: 0;
+margin-right: 0;
+padding: 5px;
+margin-top: 0;
+margin-bottom:0;
+}
+h1 {
+  color: red;
+  text-align: center;
+  font-family: cursive;
+}
+.text {
+  background-color: yellow;
+  padding: 5px;
+  margin-top: 0;
+  margin-bottom:0;
+  margin-left: 0;
+  margin-right: 0;
+}
